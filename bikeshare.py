@@ -202,7 +202,7 @@ def user_stats(df):
     
     
 def display_data(df):
-    """Displays 5 rows of underlying raw data for the analysis."""
+    """Displays 5 rows of underlying raw data for the analysis and asks user if he/she wants to see more."""
     
     #get user input whether they want to see raw data
     while True:
