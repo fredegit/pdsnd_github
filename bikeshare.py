@@ -66,7 +66,7 @@ def load_data(city, month, day):
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     Returns:
-        df - Pandas DataFrame containing city data filtered by month and day
+        df - Pandas DataFrame containing bikesharing data filtered by city, month and day
     """
     # load data file into a dataframe
     df = pd.read_csv(CITY_DATA.get(city))
@@ -134,7 +134,7 @@ def time_stats(df, city, month, day):
 
 
 def station_stats(df):
-    """Displays statistics on the most popular stations and trip."""
+    """Displays statistics on the most popular start and end stations and trip."""
 
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
@@ -202,7 +202,7 @@ def user_stats(df):
     
     
 def display_data(df):
-    """Displays 5 rows of underlying raw data for the analysis."""
+    """Displays 5 rows of underlying raw data for the analysis and asks user if he/she wants to see more."""
     
     #get user input whether they want to see raw data
     while True:
