@@ -22,4 +22,4 @@ And the python file that contains the code for the user input, analyses and outp
 
 ### Credits
 This project is based on the Udacity framework that was provided during the Python part of the course, which can be found here: [link] (https://classroom.udacity.com/nanodegrees/nd104/parts/cd0024 "Python programming course overview").
-
+Using git for the management of the project would not have been possible without the guidance of Richard in this course  - Thank you.
