@@ -1,7 +1,7 @@
 #README file for Udacity Data Science course
 
 ### Date created
-Project and README file were created on __November __25h __2021.
+Project and README file were created on __November __25th __2021.
 
 ### Project Title
 **Bikeshare data analysis for US cities**
