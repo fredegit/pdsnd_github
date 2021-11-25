@@ -1,17 +1,25 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+#README file for Udacity Data Science course
 
 ### Date created
-Include the date you created this project and README file.
+Project and README file were created on __November __25h __2021.
 
 ### Project Title
-Replace the Project Title
+**Bikeshare data analysis**
 
 ### Description
-Describe what your project is about and what it does
+The project creates code that lets a user gain information about bikesharing data in Washington, New York City and Chicago.
+The user may choose the city, the month and the day of the week that he/she wants to see data analyses for, such as trip durations, most favourite routes, and the like.
+Finally the user may choose to see raw data and could start the analysis from scratch for the same or other input parameters for city, month and day of the week.
 
 ### Files used
-Include the files used
+For this project there is mostly raw data required:
+- washington.csv
+- new_york_city.csv
+- chicago.csv
+
+And the python file that contains the code for the user input, analyses and outputs:
+- bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project is based on the Udacity framework that was provided during the Python part of the course, which can be found here: [link] (https://classroom.udacity.com/nanodegrees/nd104/parts/cd0024 "Python programming course overview").
 
