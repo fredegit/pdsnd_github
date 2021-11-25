@@ -4,7 +4,7 @@
 Project and README file were created on __November __25h __2021.
 
 ### Project Title
-**Bikeshare data analysis**
+**Bikeshare data analysis for US cities**
 
 ### Description
 The project creates code that lets a user gain information about bikesharing data in Washington, New York City and Chicago.
